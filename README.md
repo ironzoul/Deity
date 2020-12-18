@@ -3,7 +3,7 @@
 <ul><li>This bot is being created only for two purposes 
 <ul><li>for discord server community</li>
     <li>For me and my programmer friends to learn something new</li></ul></li></ul>
-<ul><li><h2>build</h2></li>
+<ul><li><h2>build</h2></li></ul>
 ------------------------------------------------------------------------------- <br>
 this build is in python 3 so requirements are <br>
 python version 3.7 or later <br>
