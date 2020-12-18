@@ -98,4 +98,4 @@ async def reload(extension):
     bot.load_extension(extension)
 
 
-bot.run('NzA3ODU2MTAzODYxMzg3Mjc0.XrO4Xg.OCgn3O_J_1xzPKYqVvcuFkp-DYE')
+bot.run('token')
